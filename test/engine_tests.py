@@ -1,7 +1,6 @@
 from engine.engine_type.capulet_engine import CapuletEngine
 from engine.engine_type.sternman_engine import SternmanEngine
 from engine.engine_type.willoughby_engine import WilloughbyEngine
-import datetime
 import unittest
 
 class Test_Capulet(unittest.TestCase):
